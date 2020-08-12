@@ -1,0 +1,12 @@
+.twoTimesButton{
+    color: gray;
+    font-size: 0.9rem;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+}
+
+.speed{
+    color: green;
+    font-weight: bolder;
+}
